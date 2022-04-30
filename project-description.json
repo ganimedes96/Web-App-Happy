@@ -1,0 +1,37 @@
+
+{
+    "name": "Web-App-Happy",
+    "short_description": "O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional.",
+    "description": "O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜",
+    "images": [
+      "https://raw.githubusercontent.com/ganimedes96/Web-App-Happy/main/.github/happy.jpg"
+    ],
+    "videos": [
+        "https://raw.githubusercontent.com/ganimedes96/Web-App-Happy/main/.github/happyOr.mp4"
+    ],
+    "link_preview": "https://github.com/ganimedes96/Web-App-Happy",
+    "techs": [
+      {
+        "name": "Node.js",
+        "url": "https://nodejs.org/en/"
+      },
+      {
+          "name":"Express",
+          "url":"https://expressjs.com/pt-br/"
+      },
+      {
+        "name": "JavaScript",
+        "url":"https://www.javascript.com"
+      },
+      
+      {
+        "name": "SQLite",
+        "url": "https://www.sqlite.org/index.html"
+      },
+      {
+        "name": "handlebars",
+        "url": "https://handlebarsjs.com"
+      }
+      
+    ]
+  }
